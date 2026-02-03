@@ -1,0 +1,10 @@
+project-site/
+  index.html
+  styles.css
+  script.js
+  assets/
+    header-bg.jpg
+    flowchart1.jpg
+    tech1.jpg
+    tech2.jpg
+    demo-video.mp4
